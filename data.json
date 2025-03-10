@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "How to create a Roblox part in Lua?",
+    "response": "local part = Instance.new('Part')\npart.Parent = workspace"
+  },
+  {
+    "prompt": "How to print Hello World in Roblox Lua?",
+    "response": "print('Hello World!')"
+  }
+]
